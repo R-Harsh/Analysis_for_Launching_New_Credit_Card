@@ -6,9 +6,8 @@
   <img src="https://github.com/gentallman/mitron_bank/assets/78334851/a28f2b63-10e0-4542-97cc-e0fc417adb52" width="140">
 </p>
 
-Codebasics Resume Project Challenge 8 solved by [@Smit Rana](https://www.linkedin.com/in/smit98rana/) and [@Simran Chadda](https://www.linkedin.com/in/simran-chadda/)
+Codebasics Resume Project Challenge 8 solved by [@Harsh Patel](https://www.linkedin.com/in/harshpatel1606/) 
 
-Here's [LinkedIn Post](https://www.linkedin.com/posts/smit98rana_codebasicsresumeprojectchallenge-like-comment-activity-7209229304491048962-AAWj?utm_source=share&utm_medium=member_desktop) and [Canva Link](https://www.canva.com/design/DAGIAHWlYyc/ZI-TQ1FHmcoK5Sw-B5JNXw/view?utm_content=DAGIAHWlYyc&utm_campaign=designshare&utm_medium=link&utm_source=editor) for project insights.
 
 <h1 align="center"> </h1>
 
@@ -315,7 +314,7 @@ Together, these strategies aim to boost customer satisfaction, increase credit c
 
 ## Contact
 
-Author: [@Smit Rana](https://www.linkedin.com/in/smit98rana/) and [@Simran Chadda](https://www.linkedin.com/in/simran-chadda/)
+Author: [@Harsh Patel](https://www.linkedin.com/in/harshpatel1606/)
 
 <p align="center">
         <img src="https://raw.githubusercontent.com/mayhemantt/mayhemantt/Update/svg/Bottom.svg" alt="Github Stats" />
